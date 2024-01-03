@@ -1,8 +1,10 @@
-package oleriano.jose.listacurso;
+package oleriano.jose.listacurso.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import oleriano.jose.listacurso.R;
 
 public class MainActivity extends AppCompatActivity {
 
