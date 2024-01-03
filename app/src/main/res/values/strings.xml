@@ -1,3 +1,12 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">ListaCurso</string>
+    <string name="txt_titulo" tools:ignore="ExtraTranslation">Lista Vip do Curso</string>
+    <string name="txt_hint_edit_primeiro_nome" tools:ignore="ExtraTranslation">Primeiro Nome</string>
+    <string name="txt_hint_edit_sobrenome" tools:ignore="ExtraTranslation">Sobrenome</string>
+    <string name="txt_hint_edit_nome_curso" tools:ignore="ExtraTranslation">Nome do Curso</string>
+    <string name="txt_hint_edit_telefone_contato" tools:ignore="ExtraTranslation">Telefone de Contato</string>
+    <string name="txt_button_limpar" tools:ignore="ExtraTranslation">Limpar</string>
+    <string name="txt_button_salvar" tools:ignore="ExtraTranslation">Salvar</string>
+    <string name="txt_button_finalizar" tools:ignore="ExtraTranslation">Finalizar</string>
+
 </resources>
