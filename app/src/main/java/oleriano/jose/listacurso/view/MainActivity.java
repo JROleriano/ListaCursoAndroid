@@ -3,6 +3,7 @@ package oleriano.jose.listacurso.view;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 
 import oleriano.jose.listacurso.R;
 import oleriano.jose.listacurso.model.Pessoa;
@@ -51,6 +52,9 @@ public class MainActivity extends AppCompatActivity {
         dadosOutraPessoa += "Telefone de Contato: ";
         dadosOutraPessoa += outraPessoa.getTelefoneContato();
 
+
+        Log.i("POOAndroid", "Object pessoa: "+ pessoa.toString());
+        Log.i("POOAndroid", "Object outraPessoa: "+ outraPessoa.toString());
 
     }
 }
